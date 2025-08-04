@@ -1,0 +1,1 @@
+# speakDiary_config
