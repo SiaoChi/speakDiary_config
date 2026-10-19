@@ -1,6 +1,6 @@
 {
   "min_version": "1.0.6",
-  "latest_version": "1.1.0",
+  "latest_version": "1.0.6",
   "update_description": {
     "zh-TW": "• 新功能「每日錯句複習」：每天 3 句，練習你在日記裡說錯的地方\n• AI 文法修正改版：說錯的地方畫線、改正的地方紅字標示\n• AI 示範發音恢復自然人聲\n• 介面與字體優化",
     "en": "• New: Daily Mistake Review — practice 3 phrases you got wrong in your diaries each day\n• Clearer AI corrections: mistakes are crossed out, fixes shown in red\n• Natural AI example voice is back\n• UI and font improvements",
