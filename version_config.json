@@ -1,10 +1,10 @@
 {
   "min_version": "1.0.6",
-  "latest_version": "1.0.6",
+  "latest_version": "1.1.0",
   "update_description": {
-    "zh-TW": "• AI 語音聲音優化\n• AI 語音增加語速調整功能\n• 介面優化",
-    "en": "• AI voice quality improvements\n• Added AI voice speed control\n• UI enhancements",
-    "ja": "• AI 音声の品質向上\n• AI 音声の速度調整機能を追加\n• UIの改善",
-    "ko": "• AI 음성 품질 개선\n• AI 음성 속도 조절 기능 추가\n• UI 개선"
+    "zh-TW": "• 新功能「每日錯句複習」：每天 3 句，練習你在日記裡說錯的地方\n• AI 文法修正改版：說錯的地方畫線、改正的地方紅字標示\n• AI 示範發音恢復自然人聲\n• 介面與字體優化",
+    "en": "• New: Daily Mistake Review — practice 3 phrases you got wrong in your diaries each day\n• Clearer AI corrections: mistakes are crossed out, fixes shown in red\n• Natural AI example voice is back\n• UI and font improvements",
+    "ja": "• 新機能「毎日のミス復習」：日記で間違えた表現を毎日3つ練習\n• AI添削をリニューアル：間違いに取り消し線、直した部分を赤字で表示\n• AIお手本音声が自然な声に戻りました\n• デザインとフォントの改善",
+    "ko": "• 새 기능 '매일 오답 복습': 일기에서 틀린 표현을 매일 3개씩 연습\n• AI 교정 개편: 틀린 부분은 취소선, 고친 부분은 빨간 글씨로 표시\n• AI 예시 음성이 다시 자연스러운 목소리로\n• 디자인 및 글꼴 개선"
   }
 }
