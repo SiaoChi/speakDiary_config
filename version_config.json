@@ -1,10 +1,11 @@
 {
-  "min_version": "1.0.6",
-  "latest_version": "1.1.0",
+  "min_version": "1.2.0",
+  "latest_version": "1.2.0",
   "update_description": {
-    "zh-TW": "• 修復 AI 示範發音的自然度\n• 新增複習功能",
-    "en": "• Improved the naturalness of AI example pronunciation\n• New review feature",
-    "ja": "• AIお手本音声の自然さを改善\n• 復習機能を追加",
-    "ko": "• AI 예시 발음의 자연스러움 개선\n• 복습 기능 추가"
+    "zh-TW": "• 修復已知錯誤\n• 修正英文發音\n• 新增西班牙文介面\n• 優化畫面",
+    "en": "• Fixed known issues\n• Improved English pronunciation\n• Added Spanish interface\n• UI improvements",
+    "ja": "• 既知の不具合を修正\n• 英語の発音を改善\n• スペイン語表示に対応\n• 画面デザインを改善",
+    "ko": "• 알려진 오류 수정\n• 영어 발음 개선\n• 스페인어 인터페이스 추가\n• 화면 개선",
+    "es": "• Corrección de errores conocidos\n• Mejora de la pronunciación en inglés\n• Nueva interfaz en español\n• Mejoras en la interfaz"
   }
 }
